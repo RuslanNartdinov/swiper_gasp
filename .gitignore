@@ -33,3 +33,4 @@ pnpm-debug.log*
 # --- Системные файлы --------------------------------------------
 .DS_Store          # macOS
 Thumbs.db          # Windows
+node_modules
